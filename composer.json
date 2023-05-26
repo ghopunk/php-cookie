@@ -1,0 +1,26 @@
+{
+    "name": "ghopunk/php-cookie",
+    "description": "Set n remove PHP Cookie",
+    "keywords": [
+        "ghopunk",
+        "php"
+    ],
+    "homepage": "https://github.com/ghopunk/php-cookie",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ghopunk",
+            "email": "support@bloggerpemalas.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+    },
+    "autoload": {
+        "psr-4": {
+            "ghopunk\\Cookie\\": "src"
+        }
+    },
+    "prefer-stable": true
+}
