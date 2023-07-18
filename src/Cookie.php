@@ -1,4 +1,5 @@
 <?php
+
 namespace ghopunk\Helpers;
 
 class Cookie {
