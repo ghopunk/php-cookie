@@ -2,6 +2,8 @@
 
 namespace ghopunk\Helpers;
 
+use ghopunk\Helpers\Servers\Is;
+
 class Cookie {
 	
 	public $domain;
